@@ -37,9 +37,16 @@ h3{
     
 }
 
+.float{
+    margin-top: 5em;
+    margin-bottom: 10em;
+}
+
 .farve_skift{
     color: yellow;
     background-color: purple;
+    margin-top: 20em;
+    margin-bottom: 20em;
 }
 
 button{
